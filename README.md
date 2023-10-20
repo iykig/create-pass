@@ -2,7 +2,7 @@
 ▬▬ι═══════ﺤ
 🤖 robot create password infinity 🕵🏻
 ________________________________________________
-|         ABCDEFGHIGKLMNOPQRSTUVWXYZ           |
+||         ABCDEFGHIGKLMNOPQRSTUVWXYZ           |
 |         abcdefghigklmnopqrstuvwxyz           |
 |   1234567890!@#$%^&*()_+=-][}{":/|\.,<>?`~   |
-|---- 🔑 ----|
+|---- 🔑 ----||
