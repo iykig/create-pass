@@ -12,6 +12,6 @@ ________________________________________________
 
 <!--START_SECTION:waka-->
 ```
-python3  create-pass.py
+python3  password-create.py
 ```
 <!--END_SECTION:waka-->
